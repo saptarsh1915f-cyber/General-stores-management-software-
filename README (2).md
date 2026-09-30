@@ -129,7 +129,7 @@ Possible improvements include:
 
 ## Author
 
-**Shivam Haritash**  
-**Registration No.: 26MIM10146**  
+**Saptarshi Das**  
+**Registration No.: 26BCE11736**  
 
 B.Tech First Year — Python Project
